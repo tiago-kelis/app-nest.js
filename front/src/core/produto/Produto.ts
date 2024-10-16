@@ -9,7 +9,7 @@ export default interface Produto extends Precificavel {
     marca: string
     modelo: string
     imagem: string
-    nota: string
+    nota: number
     videoReview: string
     tags: string[]
     especificacoes: Especificacoes

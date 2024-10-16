@@ -2,6 +2,6 @@
 export default interface Parcelamento {
     valorTotal: number
     valorParcela: number
-    qtdeParcela: number
+    qtdeParcelas: number
     taxaJuros: number
 }
